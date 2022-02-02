@@ -9,8 +9,19 @@
 //const  cat = `toys`;
 //console.log(`htttps://url.com/${cat}/5`);
 
-const user = `Seva` ;
-alert(`Hi, ${user}, you are super!`);
+let plus = 524,
+minus = 789;
+
+console.log(5%2);
+console.log(--minus);
+console.log (2*2 != 4);
+const isCheck = true,
+isClo = false;
+console.log(isCheck || isClo);
+
+
+
+
 
 
 
